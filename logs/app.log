@@ -1,0 +1,93 @@
+[ERROR] 2023-10-06 09:12:11.900 [main] prueba - java.io.FileNotFoundException: .\datos.txt (El sistema no puede encontrar el archivo especificado)
+[ERROR] 2023-10-06 09:34:00.383 [main] prueba - Error de entrada salida
+java.io.FileNotFoundException: .\datos22.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:75) ~[?:?]
+	at es.iesjandula.unidad1.transparencia12.prueba.main(prueba.java:32) ~[classes/:?]
+[ERROR] 2023-10-06 09:41:23.887 [main] prueba - Error de entrada salida
+java.io.FileNotFoundException: .\datos2.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:75) ~[?:?]
+	at es.iesjandula.unidad1.transparencia12.prueba.main(prueba.java:33) ~[classes/:?]
+[ERROR] 2023-10-06 09:50:14.038 [main] prueba - Error de entrada salida
+java.io.FileNotFoundException: .\datos22.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:75) ~[?:?]
+	at es.iesjandula.unidad1.transparencia12.prueba.main(prueba.java:33) ~[classes/:?]
+[ERROR] 2023-10-06 09:52:59.785 [main] prueba - Error archivo no encontrado
+java.io.FileNotFoundException: .\datos1.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:75) ~[?:?]
+	at es.iesjandula.unidad1.transparencia12.prueba.main(prueba.java:33) ~[classes/:?]
+[ERROR] 2023-10-06 10:38:26.404 [main] MyScanner - Error Archivo no encontrado
+java.io.FileNotFoundException: datos2.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.util.Scanner.<init>(Scanner.java:639) ~[?:?]
+	at es.iesjandula.unidad1.transparencia16.MyScanner.main(MyScanner.java:32) ~[classes/:?]
+[ERROR] 2023-10-06 12:17:37.365 [main] Tarea1 - archivo no encontrado  datos2.txt
+java.io.FileNotFoundException: datos2.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:216) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:111) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at es.iesjandula.unidad1.transparencia17.Tarea1.main(Tarea1.java:43) ~[classes/:?]
+[ERROR] 2023-10-08 15:56:59.611 [main] MyScanner - Error Archivo no encontrado
+java.io.FileNotFoundException: datos123.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:158) ~[?:?]
+	at java.util.Scanner.<init>(Scanner.java:641) ~[?:?]
+	at es.iesjandula.unidad1.transparencia16.MyScanner.main(MyScanner.java:32) ~[classes/:?]
+[ERROR] 2023-10-08 16:21:39.754 [main] BufferedReaderTest - Error archivo no encontrado
+java.io.FileNotFoundException: datos.2txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:158) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at es.iesjandula.unidad1.transparencia14_15.BufferedReaderTest.main(BufferedReaderTest.java:38) ~[classes/:?]
+[ERROR] 2023-10-08 16:23:41.728 [main] BufferedReaderTest - Error archivo no encontrado
+java.io.FileNotFoundException: datos2.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:158) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at es.iesjandula.unidad1.transparencia14_15.BufferedReaderTest.main(BufferedReaderTest.java:39) ~[classes/:?]
+[ERROR] 2023-10-08 16:24:21.726 [main] MyScanner - Error Archivo no encontrado
+java.io.FileNotFoundException: datos2.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:158) ~[?:?]
+	at java.util.Scanner.<init>(Scanner.java:641) ~[?:?]
+	at es.iesjandula.unidad1.transparencia16.MyScanner.main(MyScanner.java:32) ~[classes/:?]
+[ERROR] 2023-10-09 10:05:49.136 [main] Trasparencia19 - Error de entrada salida
+java.io.FileNotFoundException: .\h\datos2.txt (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:293) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:235) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:123) ~[?:?]
+	at java.io.FileWriter.<init>(FileWriter.java:66) ~[?:?]
+	at es.iesjandula.unidad1.transparencia19.Trasparencia19.main(Trasparencia19.java:33) ~[classes/:?]
+[ERROR] 2023-10-13 09:48:30.997 [main] ParametersParser - Error parsing command line arguments
+org.apache.commons.cli.UnrecognizedOptionException: Unrecognized option: --destination
+	at org.apache.commons.cli.DefaultParser.handleUnknownToken(DefaultParser.java:561) ~[commons-cli-1.5.0.jar:1.5.0]
+	at org.apache.commons.cli.DefaultParser.handleLongOptionWithoutEqual(DefaultParser.java:383) ~[commons-cli-1.5.0.jar:1.5.0]
+	at org.apache.commons.cli.DefaultParser.handleLongOption(DefaultParser.java:334) ~[commons-cli-1.5.0.jar:1.5.0]
+	at org.apache.commons.cli.DefaultParser.handleToken(DefaultParser.java:540) ~[commons-cli-1.5.0.jar:1.5.0]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:712) ~[commons-cli-1.5.0.jar:1.5.0]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:679) ~[commons-cli-1.5.0.jar:1.5.0]
+	at org.apache.commons.cli.DefaultParser.parse(DefaultParser.java:660) ~[commons-cli-1.5.0.jar:1.5.0]
+	at es.iesjandula.unidad1.transparencia24.ParametersParser.parse(ParametersParser.java:70) ~[classes/:?]
+	at es.iesjandula.unidad1.transparencia24.Launcher.main(Launcher.java:17) ~[classes/:?]
